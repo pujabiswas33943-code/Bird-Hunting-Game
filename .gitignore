@@ -1,0 +1,21 @@
+### IntelliJ IDEA ###
+.idea/
+out/
+*.iml
+
+### Compiled files ###
+*.class
+
+### Build files ###
+build/
+target/
+
+### Images/Sounds (keep these) ###
+# images and sounds should NOT be ignored
+
+### OS files ###
+.DS_Store
+
+### VS Code ###
+.vscode/
+src/sounds/background.wav
