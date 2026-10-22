@@ -11,5 +11,5 @@ Level progression with new backgrounds and unlockable abilities
 Player profiles that save coins and high scores
 Custom sound effects and background music
 
-Tech Stack
+Tech Stack:
 Java, Java Swing, Java AWT, OOP, File Handling
